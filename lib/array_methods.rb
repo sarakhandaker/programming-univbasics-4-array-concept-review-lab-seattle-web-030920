@@ -3,8 +3,8 @@ def find_element_index(array, value_to_find)
   while array[n]do
     if array[n]==value_to_find
       return n
-      n+=1
   end
+     n+=1
   nil
 end
 
