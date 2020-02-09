@@ -5,6 +5,7 @@ if array[c]==value_to_find
 end
 nil
 end
+end
 
 def find_max_value(array)
  i=0
